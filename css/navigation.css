@@ -15,6 +15,7 @@ ul {
 
     list-style-type: none;
     border: 2px solid hsl(120, 70%, 40%);
+    border-radius: 5px;
     
 }
 
